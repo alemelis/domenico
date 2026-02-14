@@ -1,0 +1,25 @@
+# Virtual env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Local data
+data/*.sqlite3
+
+# Env and IDE
+.env
+.idea/
+.vscode/
+*.swp
+*.swo
